@@ -11,7 +11,7 @@ echo"hello";
 echo"hello";
 
 echo"New line by Pawan";
-echo"deit by Pawan";
+echo"edit by Pawan";
 
 echo "Edit by Prem 1";
 
